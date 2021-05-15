@@ -14,3 +14,11 @@ main,footer,article,section{
 header,footer{
     text-align: center;
 }
+table,th,td{
+    border: 1px solid gray;
+    text-align: center;
+}
+table{
+    width: 90%;
+    margin: auto;
+}
