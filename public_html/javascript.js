@@ -15,7 +15,7 @@ function kiir(){
            
         }
         $("table tr").eq(i).append('<td><input type="button" id="torol" name="torol" value="töröl"></td>');
-            $("table tr").eq(i).append('<td><input type="button" id="modosit" name="modosit" value="modosit"></td>');
+        $("table tr").eq(i).append('<td><input type="button" id="modosit" name="modosit" value="modosit"></td>');
         i++;
     }
 }
