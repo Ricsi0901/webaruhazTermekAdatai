@@ -1,5 +1,6 @@
 $(function(){
-    
+    var adatObjektum=JSON.parse(termekek);
 });
+var termekek='[{"id": "1", "nev": "fülhallgató","ár": "5000","db": "10"},{"id": "2","nev": "pendrive 128 gb","ár": "10000","db": "20"}]';
 
 
